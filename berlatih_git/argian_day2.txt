@@ -3,3 +3,4 @@ Stack : Mobile
 Branch : main
 ini merupakan tambahan kalimat
 Branch : sesiSore
+sudah di push oleh komputer A
