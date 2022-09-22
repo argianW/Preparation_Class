@@ -3,3 +3,4 @@ Stack : Mobile
 Branch : main
 ini merupakan tambahan kalimat
 Branch : sesiSore
+text dari branch baru komputer B
